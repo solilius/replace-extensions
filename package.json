@@ -1,0 +1,7 @@
+{
+  "name": "replace-file-extension",
+  "version": "1.0.0",
+  "description": "Replace all files extensions recursively",
+  "author": "Sol Elan",
+  "license": "ISC"
+}
